@@ -47,5 +47,4 @@ O projeto foi desenvolvido para aplicar conceitos de estruturas de dados e manip
 Aplicar na prática conceitos fundamentais de estruturas de dados e reforçar a lógica de programação em Java.
 
 
-1. Clone o repositório:
 
