@@ -38,7 +38,7 @@ O projeto foi desenvolvido para aplicar conceitos de estruturas de dados e manip
    
 2. Abra o projeto em sua IDE (IntelliJ, Eclipse ou similar).
 
-3. Compile e execute a classe principal (Main)
+3. Compile e execute a classe principal
 
 ---
 
