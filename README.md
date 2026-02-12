@@ -4,7 +4,7 @@ Projeto desenvolvido em Java com o objetivo de praticar estruturas de dados e l�
 
 ## 📚 Sobre o Projeto
 
-O jogo consiste em apresentar uma palavra embaralhada ao usuário, que deve tentar descobrir a palavra correta em até 3 tentativas.
+O jogo consiste em apresentar palavras embaralhadas ao usuário, que deve tentar descobrir a palavra correta em até 3 tentativas.
 
 A pontuação varia de acordo com o número de tentativas:
 
