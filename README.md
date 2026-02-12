@@ -17,7 +17,7 @@ O projeto foi desenvolvido para aplicar conceitos de estruturas de dados e manip
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologia Utilizada
 
 - Java
 
